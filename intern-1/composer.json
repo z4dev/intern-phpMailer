@@ -1,0 +1,6 @@
+{
+"phpmailer/phpmailer": "^6.9.1",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
