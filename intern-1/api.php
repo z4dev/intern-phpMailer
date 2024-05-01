@@ -30,7 +30,7 @@ if(isset(($_POST['btn']))){
         echo "Subject is required";
         echo RETURN_TO_FORM_PAGE;
     }
-    else if (empty($message)){
+    else if (empty($message) ){
         echo "Message is required";
         echo RETURN_TO_FORM_PAGE;
     }
